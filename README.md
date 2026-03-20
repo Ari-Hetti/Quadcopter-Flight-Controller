@@ -1,2 +1,2 @@
-# Flight-Controller
-A simple flight controller for a sub 250g drone
+# Flight Controller
+A simple custom flight controller for a medium sized quadcopter
