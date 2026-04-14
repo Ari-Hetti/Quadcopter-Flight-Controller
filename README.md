@@ -1,2 +1,2 @@
-# Flight Controller
-A simple custom flight controller for a medium sized quadcopter
+# Quadcopter Flight Controller
+A small 2 layer custom flight controller for a 5in quadcopter
