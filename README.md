@@ -61,6 +61,6 @@ This was made using:
 - [Blueprint Guide](https://stasis.hackclub.com/starter-projects/split-keyboard) - Flight Controller Guide
 
 ## My Other Projects
-- [Split Keyboard](https://github.com/Ari-Hetti/Split-Keyboard) - A Small 32 Key Split Keyboard with Thumb Knobs that can be Powered Wired or Wirelessly.
-- [Hexpad_Highway](https://github.com/Ari-Hetti/Hexpad_Highway) - A Small mMcropad with 6 Switches, 1 Rotary encoder and 1 Oled display Encased in a 3d Printed Enclosure
-- [FRC Badge V2](https://github.com/Ari-Hetti/FRC-Badge-V2) - Hexagonal 555 timer LED Chaser Keychain
+- [Split Keyboard](https://github.com/Ari-Hetti/Split-Keyboard) - A 32 Key Split Keyboard with Thumb Knobs that can be Powered Wired or Wirelessly.
+- [Hexpad_Highway](https://github.com/Ari-Hetti/Hexpad_Highway) - A Small Macropad with 6 Switches, 1 Rotary encoder and 1 OLED display Encased in a 3d Printed Enclosure
+- [FRC Badge V2](https://github.com/Ari-Hetti/FRC-Badge-V2) - Hexagonal 555 Timer LED Chaser Keychain
