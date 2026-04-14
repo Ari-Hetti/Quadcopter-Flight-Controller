@@ -35,6 +35,21 @@ A small, drone stackup compatible, flight controller built using the STM32F722RE
 - LMR51430 (3.3V Regulator)
 
 ## Board Design
+**Schematics:**
+<img width="1182" height="817" alt="image" src="https://github.com/user-attachments/assets/320a62d6-e9f1-472d-b7bf-82375f5a095a" />
+<img width="1386" height="620" alt="image" src="https://github.com/user-attachments/assets/e2466c5b-f291-462e-bab7-c7191d7d31dc" />
+<img width="518" height="650" alt="image" src="https://github.com/user-attachments/assets/a31414fa-ef0c-4d4f-9df4-07c37512ca9a" />
+<img width="1155" height="793" alt="image" src="https://github.com/user-attachments/assets/a7167f07-952a-4839-8e9d-0e253ab26932" />
+<img width="1096" height="619" alt="image" src="https://github.com/user-attachments/assets/79a86c84-d475-453f-9bfa-e03fb5725655" />
+**PCB:**
+
+<img width="810" height="860" alt="image" src="https://github.com/user-attachments/assets/e7a552be-b079-4cb4-973d-7975f009bea3" />
+<img width="818" height="857" alt="Screenshot 2026-04-14 111123" src="https://github.com/user-attachments/assets/8d0f8acb-d26c-44b0-bd58-c2259e88e94f" />
+<img width="822" height="863" alt="Screenshot 2026-04-14 111138" src="https://github.com/user-attachments/assets/87f47743-db63-4dc4-8000-5e9e84b5caac" />
+
+**3D View:**
+<img width="1918" height="930" alt="Flight Controller Top Down" src="https://github.com/user-attachments/assets/8eedc2e3-7572-490f-a4bc-e9d766b1fcfc" />
+<img width="1724" height="930" alt="Flight Controller Close Up" src="https://github.com/user-attachments/assets/06098a5c-1afa-4593-bb81-3540d4a8b3c4" />
 
 
 ## Credits
