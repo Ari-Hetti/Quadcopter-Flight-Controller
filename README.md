@@ -13,6 +13,7 @@ A Small Flight Controller For a 5in FPV Quadcopter
   <a href="#components">Components</a> -
   <a href="#board-design">Board Design</a> -
   <a href="#bom">BOM</a> -
+  <a href="#software">Software</a> -
   <a href="#credits">Credits</a> -
 </p>
 
@@ -96,6 +97,9 @@ TF Card |	Store Blackbox Flight Data |	2 |	0.38 |	https://jlcpcb.com/partdetail/
 100nF Capacitor |	Decoupling Capacitors |	36 |	0.05 |	https://jlcpcb.com/partdetail/1877-CL05B104KO5NNNC/C1525 |	JLCPCB
 22uF Capacitor |	Decoupling Capacitors |	20 |	0.19 |	https://jlcpcb.com/partdetail/60514-CL10A226MQ8NRNC/C59461 |	JLCPCB
 2.2uF Capacitor |	Decoupling Capacitors |	50 |	0.01 |	https://jlcpcb.com/partdetail/13164-CL05A225MQ5NSNC/C12530 |	JLCPCB
+
+## Software
+For this project I will be running [Betaflight 2025.12.2 ](https://betaflight.com/) (current stable version), which is an open-source firmware. Since I cant just put Betaflight in here, I will just put the .ioc file I used to confirm my pinouts to make sure that the board functions, let alone to run Betaflight. 
 
 ## Credits
 This was made using:
