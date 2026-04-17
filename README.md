@@ -74,14 +74,14 @@ STM32F722RET6 |	Microcontroller |	2 |	12.91 |	https://jlcpcb.com/partdetail/STMi
 Tactile Switch |	Boot / Reset Buttons |	4 |	0.22 |	https://jlcpcb.com/partdetail/XUNPU-TS_1088AR02016/C720477 |	JLCPCB
 22k Resistor |	Voltage Divider |	20 |	0.002 |	https://jlcpcb.com/partdetail/26511-0402WGF2202TCE/C25768 |	JLCPCB
 100k Resistor |	Voltage Divider Resistors |	20 |	0.0018 |	https://jlcpcb.com/partdetail/26484-0402WGF1003TCE/C25741 |	JLCPCB
-39 Resistor |	Lower Feedback Resistor |	100 |	0.09 |	https://www.lcsc.com/product-detail/C185420.html?spm=wm.gwc.xh.12.cbm___wm.jsy.top.gwc&lcsc_vid=RAcKAlZfRgcIX1ReFQJbUgBSRQMIXgJTTgVcAwJURlQxVlNRQVVeUlJRQVVbUTtW |	LCSC
-402 Resistor |	Feedback Resistors |	20 |	0.08 |	https://www.lcsc.com/product-detail/C41042.html?spm=wm.gwc.xh.11.cbm___wm.jsy.top.gwc&lcsc_vid=RAcKAlZfRgcIX1ReFQJbUgBSRQMIXgJTTgVcAwJURlQxVlNRQVVeUlJRQVVbUTtW |	LCSC
-75 Resistor |	Video Out Resistor |	100 |	0.09 |	https://www.lcsc.com/product-detail/C25133.html?spm=wm.gwc.xh.10.cbm___wm.jsy.top.gwc&lcsc_vid=RAcKAlZfRgcIX1ReFQJbUgBSRQMIXgJTTgVcAwJURlQxVlNRQVVeUlJRQVVbUTtW |	LCSC
+39Ω Resistor |	Lower Feedback Resistor |	100 |	0.09 |	https://www.lcsc.com/product-detail/C185420.html?spm=wm.gwc.xh.12.cbm___wm.jsy.top.gwc&lcsc_vid=RAcKAlZfRgcIX1ReFQJbUgBSRQMIXgJTTgVcAwJURlQxVlNRQVVeUlJRQVVbUTtW |	LCSC
+402Ω Resistor |	Feedback Resistors |	20 |	0.08 |	https://www.lcsc.com/product-detail/C41042.html?spm=wm.gwc.xh.11.cbm___wm.jsy.top.gwc&lcsc_vid=RAcKAlZfRgcIX1ReFQJbUgBSRQMIXgJTTgVcAwJURlQxVlNRQVVeUlJRQVVbUTtW |	LCSC
+75Ω Resistor |	Video Out Resistor |	100 |	0.09 |	https://www.lcsc.com/product-detail/C25133.html?spm=wm.gwc.xh.10.cbm___wm.jsy.top.gwc&lcsc_vid=RAcKAlZfRgcIX1ReFQJbUgBSRQMIXgJTTgVcAwJURlQxVlNRQVVeUlJRQVVbUTtW |	LCSC
 1.5k Resistor |	Voltage LED / V Sense Resistors |	20 |	0 |	https://jlcpcb.com/partdetail/26610-0402WGF1501TCE/C25867 |	JLCPCB
 1k Resistor |	Buzzer / Voltage LED / Current Sense Resistors |	20 |	0.01 |	https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702 |	JLCPCB
 5.1k Resistor |	Pull-down / Voltage LED Resistors |	20 |	0.01 |	https://jlcpcb.com/partdetail/26648-0402WGF5101TCE/C25905 |	JLCPCB
 10k Resistor |	General Purpose |	24 |	0.03 |	https://jlcpcb.com/partdetail/26487-0402WGF1002TCE/C25744 |	JLCPCB
-33Î© Resistor |	Series Termination Resistor |	20 |	0.0016 |	https://jlcpcb.com/partdetail/25848-0402WGF330JTCE/C25105 |	JLCPCB
+33Ω Resistor |	Series Termination Resistor |	20 |	0.0016 |	https://jlcpcb.com/partdetail/25848-0402WGF330JTCE/C25105 |	JLCPCB
 5.6uH Inductor |	Power Inductor |	5 |	0.85 |	https://www.lcsc.com/product-detail/C475914.html |	LCSC
 1uH Inductor |	Power / EMI Inductor |	10 |	1.41 |	https://www.lcsc.com/product-detail/C435392.html |	LCSC
 LED |	Voltage Detection |	6 |	0.07 |	https://jlcpcb.com/partdetail/Hubei_KENTOElec-KT0603W/C2290 |	JLCPCB
@@ -101,7 +101,7 @@ TF Card |	Store Blackbox Flight Data |	5 |	0.88 |	https://www.lcsc.com/product-d
 
 
 ## Software
-For this project I will be running [Betaflight 2025.12.2 ](https://betaflight.com/) (current stable version), which is an open-source firmware. Since I cant just put Betaflight in here, I will just put the .ioc file I used to confirm my pinouts to make sure that the board functions, let alone to run Betaflight. 
+For this project I will be running [Betaflight 2025.12.2 ](https://betaflight.com/) (current stable version), which is an open-source firmware. Since I cant just put Betaflight in here, and I can't configure anything without the board, I will just put the .ioc file I used to confirm my pinouts to make sure that the board functions, let alone to run Betaflight. 
 
 ## Credits
 This was made using:
