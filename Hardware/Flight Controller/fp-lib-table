@@ -3,4 +3,5 @@
   (lib (name "lcsc")(type "KiCad")(uri "C:/Users/arihe/GitHub/Flight-Controller/lib/lcsc.pretty")(options "")(descr ""))
   (lib (name "Pads")(type "KiCad")(uri "C:/Users/arihe/GitHub/Flight-Controller/lib/Library.pretty")(options "")(descr ""))
   (lib (name "ICM-42688-P")(type "KiCad")(uri "C:/Users/arihe/Downloads/LIB_ICM-42688-P/ICM-42688-P/KiCad")(options "")(descr ""))
+  (lib (name "SMD3215-2P")(type "KiCad")(uri "C:/Users/arihe/Downloads/ul_NX3215SA-32-768K-STD-MUS-2/KiCADv6/footprints.pretty")(options "")(descr ""))
 )
