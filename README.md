@@ -45,8 +45,8 @@ The reason why I built this project was because it seemed like a hard enough cha
 <img width="518" height="650" alt="image" src="https://github.com/user-attachments/assets/a31414fa-ef0c-4d4f-9df4-07c37512ca9a" />
 <img width="1155" height="793" alt="image" src="https://github.com/user-attachments/assets/a7167f07-952a-4839-8e9d-0e253ab26932" />
 <img width="1096" height="619" alt="image" src="https://github.com/user-attachments/assets/79a86c84-d475-453f-9bfa-e03fb5725655" />
-### PCB:
 
+### PCB:
 <img width="810" height="860" alt="image" src="https://github.com/user-attachments/assets/e7a552be-b079-4cb4-973d-7975f009bea3" />
 <img width="818" height="857" alt="Screenshot 2026-04-14 111123" src="https://github.com/user-attachments/assets/8d0f8acb-d26c-44b0-bd58-c2259e88e94f" />
 <img width="822" height="863" alt="Screenshot 2026-04-14 111138" src="https://github.com/user-attachments/assets/87f47743-db63-4dc4-8000-5e9e84b5caac" />
